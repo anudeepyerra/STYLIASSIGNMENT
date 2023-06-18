@@ -1,0 +1,22 @@
+{
+  "name": "fullstack-developer-category-management",
+  "version": "1.0.0",
+  "description": "Built an application to manage E-Commerce Fashion categories in a tree structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "serve": "index.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "jest": "^27.2.0",
+    "supertest": "^6.1.3"
+  }
+}
